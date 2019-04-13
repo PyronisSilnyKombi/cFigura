@@ -3,7 +3,7 @@ openGL project
 - keyboard operations
 - display
 - object-Oriented programming
-functional keys:
+- functional keys:
  - p - add p
  - o - add o
  - m,n,b,v - velocity
